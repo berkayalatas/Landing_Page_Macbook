@@ -367,7 +367,6 @@ img {
         flex-direction: row;
     }
 
- 
     .navbar ul {
         justify-self: flex-end;
         display: flex;
