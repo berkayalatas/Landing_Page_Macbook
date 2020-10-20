@@ -348,7 +348,7 @@ img {
 
 /* media queries */
 
-@media(max-width: 700px) {
+@media all and (max-width: 700px) {
     /*  navbar  */
 
     #logo_container {
